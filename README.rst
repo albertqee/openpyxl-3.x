@@ -57,3 +57,8 @@ The documentation is at: https://openpyxl.readthedocs.io
 * instructions for contributing
 
 Release notes: https://openpyxl.readthedocs.io/en/stable/changes.html
+
+Installation
+------------
+
+# python3.x setup.py install
